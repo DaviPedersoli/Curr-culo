@@ -14,6 +14,15 @@ Atuar com ciência de dados, desenvolvendo soluções com programação, estatí
 
 ## 💻 Projetos
 
+**Desenvolvimento do Pacote GeoMet.jl – Geometalurgia com Julia**  
+Projeto orientado com foco no desenvolvimento do pacote **GeoMet.jl**, voltado para aplicações científicas em **Geometalurgia**, utilizando a linguagem Julia.  
+As atividades envolvem:
+- Organização e estruturação de código-fonte
+- Uso de notebooks interativos com **Pluto.jl**
+- Controle de versão com **Git e GitHub**
+- Aplicação de conceitos de **ciência de dados** no contexto da mineração
+
+🔗 [Repositório do projeto](https://github.com/Geometallurgy/GeoMet.jl)
 
 ## 🌐 Contato
 - GitHub: [github.com/DaviPedersoli](https://github.com/DaviPedersoli)
