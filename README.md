@@ -1,29 +1,28 @@
- # Davi – Currículo com foco em Ciência de Dados
+Education
+	•	Technical High School in Industrial Automation – COLTEC
+Start: 2023 – Expected completion: 2026
 
-## 👨‍🎓 Formação
-- Ensino Médio Técnico em Automação Industrial – COLTEC  
-  Início: 2023 – Previsão de conclusão: 2026
+Objective
 
-## 🎯 Objetivo
-Atuar com ciência de dados, desenvolvendo soluções com programação, estatística e análise de dados.
+To work with data science, developing solutions through programming, statistics, and data analysis.
 
-## 🧠 Habilidades Técnicas
-- Linguagens: Julia, C, Python (iniciante)
-- Ferramentas: Git, GitHub, Pluto.jl
-- Conceitos: Análise de dados, lógica de programação, visualização de dados
+Technical Skills
+	•	Languages: Julia, C, Python (beginner)
+	•	Tools: Git, GitHub, Pluto.jl
+	•	Concepts: Data analysis, programming logic, data visualization
 
-## 💻 Projetos
+Projects
 
-**Desenvolvimento do Pacote GeoMet.jl – Geometalurgia com Julia**  
-Projeto orientado com foco no desenvolvimento do pacote **GeoMet.jl**, voltado para aplicações científicas em **Geometalurgia**, utilizando a linguagem Julia.  
-As atividades envolvem:
-- Organização e estruturação de código-fonte
-- Uso de notebooks interativos com **Pluto.jl**
-- Controle de versão com **Git e GitHub**
-- Aplicação de conceitos de **ciência de dados** no contexto da mineração
+Development of GeoMet.jl Package – Geometallurgy with Julia
+A guided project focused on the development of the GeoMet.jl package, aimed at scientific applications in Geometallurgy using the Julia language.
+Activities include:
+	•	Organization and structuring of source code
+	•	Use of interactive notebooks with Pluto.jl
+	•	Version control using Git and GitHub
+	•	Application of data science concepts in the mining context
 
-🔗 [Repositório do projeto](https://github.com/Geometallurgy/GeoMet.jl)
+Project repository
 
-## 🌐 Contato
-- GitHub: [github.com/DaviPedersoli](https://github.com/DaviPedersoli)
-- E-mail: davipedersolimoura@gmail.com
+Contact
+	•	GitHub: github.com/DaviPedersoli
+	•	Email: davipedersolimoura@gmail.com
